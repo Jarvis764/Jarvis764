@@ -1,3 +1,6 @@
+
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/49a20895-f412-4faa-afcd-1162ca83dce2" />
+
 # 💫 About Me:
 👋 Hi, I’m Shreesha! 🚀 Senior Analyst Intern @ EY | Aspiring Full-Stack & AI Engineer 🔭 I’m currently working on Cyber Security projects under Tech Consulting Building NextPrep – a smart learning & exam-prep platform 👯 I’m looking to collaborate on Full-stack web applications AI-based learning, productivity, and education platforms 🤝 I’m looking for help with System Design & scalable architectures Advanced DSA for SDE roles 🌱 I’m currently learning Full-Stack Development (React, Next.js, Firebase, Tailwind) Data Structures & Algorithms AI & Machine Learning fundamentals 💬 Ask me about Frontend Development (React / Next.js) Firebase & real-time applications Cyber Security fundamentals⚡ Fun fact I learn fastest when I’m building something real.
 
