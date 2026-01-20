@@ -1,15 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Shreesha!<br>🚀 Senior Analyst Intern @ EY | Aspiring Full-Stack & AI Engineer<br><br>
-## 🔭 I’m currently working on<br><br>
-Cyber Security projects under Tech Consulting<br><br>Building NextPrep – a smart learning & exam-prep platform<br><br> 
-## 👯 I’m looking to collaborate on<br><br>
-Full-stack web applications<br><br>AI-based learning, productivity, and education platforms<br><br>
-## 🤝 I’m looking for help with<br><br>
-System Design & scalable architectures<br><br>Advanced DSA for SDE roles<br><br>
-## 🌱 I’m currently learning<br><br> 
-Full-Stack Development (React, Next.js, Firebase, Tailwind)<br><br>Data Structures & Algorithms<br><br>AI & Machine Learning fundamentals<br><br>##💬 Ask me about<br><br>Frontend Development (React / Next.js)<br><br>Firebase & real-time applications<br><br>Cyber Security fundamentals<br><br>
-## ⚡ Fun fact<br><br> 
-I learn fastest when I’m building something real.
+👋 Hi, I’m Shreesha! 🚀 Senior Analyst Intern @ EY | Aspiring Full-Stack & AI Engineer 🔭 I’m currently working on Cyber Security projects under Tech Consulting Building NextPrep – a smart learning & exam-prep platform 👯 I’m looking to collaborate on Full-stack web applications AI-based learning, productivity, and education platforms 🤝 I’m looking for help with System Design & scalable architectures Advanced DSA for SDE roles 🌱 I’m currently learning Full-Stack Development (React, Next.js, Firebase, Tailwind) Data Structures & Algorithms AI & Machine Learning fundamentals 💬 Ask me about Frontend Development (React / Next.js) Firebase & real-time applications Cyber Security fundamentals⚡ Fun fact I learn fastest when I’m building something real.
 
 
 ## 🌐 Socials:
